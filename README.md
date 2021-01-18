@@ -7,4 +7,4 @@
 ---
 
 [Site Live Server](https://krantos-dev.github.io/Day-18---Background-Slider/)
-# Day-18---Background-Slider
+
